@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OniScrooge
+- 👀 I’m interested in Software Development/Engineering.
+- 🌱 I’m currently learning C++. Once I have an acceptable understanding of C++, I am interested in learning additional languages.
+- 💞️ I’m looking to collaborate on any C++ project that expands my knowledge of C++.
+- 📫 How to reach me:
+- Email - puut4991@yahoo.com
