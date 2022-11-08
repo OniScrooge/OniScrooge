@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OniScrooge
 - 👀 I’m interested in Software Development/Engineering.
-- 🌱 I’m currently learning JS, CSS, HTLM. I have learned Python, and will continue to learn after finishing what I am currently learning.
+- 🌱 I’m currently learning JS, CSS, HTLM. I have learned C++ and Python. I will continue to learn after finishing what I am currently learning.
 - 💞️ I’m looking to collaborate on any C++ project that expands my knowledge of C++.
 - 📫 How to reach me:
 - Email - puut4991@yahoo.com
