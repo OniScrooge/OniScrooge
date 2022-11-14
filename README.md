@@ -5,4 +5,4 @@
 
 - 📫 How to reach me:
 - Email - https://puut4991@yahoo.com
-- GitHub - https://github.com/OniScrooge
+- LinkedIN - https://www.linkedin.com/in/patrick-ignaut-53222184/
