@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick or @OniScrooge
 - 👀 I’m interested in Software Development/Engineering and I am currently seeking employment. Contact for employment welcome.
-- 🌱 I’m currently learning JS, CSS, HTML. I have learned C++ and Python. I will continue to learn after finishing what I am currently learning.
+- 🌱 I’m currently learning JS, CSS, HTML. I have learned C++ and Python. I will advance my education of SQL once my current study is completed.
 - 💞️ I’m looking to collaborate on any C++ project that expands my knowledge of C++, or expanding my learning of Software Engineering.
 
 - 📫 How to reach me:
